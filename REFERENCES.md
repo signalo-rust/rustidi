@@ -210,6 +210,6 @@ Across five independent accounts, the recurring pattern is consistent:
 - I build processes that remain useful after I leave;
 - people who worked with me carried those management principles into later leadership roles.
 
-These recommendations primarily validate my leadership and operator background. For my current applied-AI and engineering work, the strongest public evidence remains the architecture, evals, production incidents and sanitised implementation materials in **[Signalo](https://github.com/rustidi98/signalo-showcase)**.
+These recommendations primarily validate my leadership and operator background. For my current applied-AI and engineering work, the strongest public evidence remains the architecture, evals, production incidents and sanitised implementation materials in **[Signalo](https://github.com/rustidi/signalo-portfolio)**.
 
 **[Back to my profile](./README.md)** · **[See Signalo](https://mysignalo.ru)** · **[Email me](mailto:rust.idi98@gmail.com)**

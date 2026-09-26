@@ -45,4 +45,4 @@ This is why my New Zealand search is focused and long term. I require employer s
 
 ---
 
-**[Back to my GitHub profile](./README.md)** · **[See Signalo](https://github.com/rustidi98/signalo-showcase)** · **[Email me](mailto:rust.idi98@gmail.com)**
+**[Back to my GitHub profile](./README.md)** · **[See Signalo](https://github.com/rustidi/signalo-portfolio)** · **[Email me](mailto:rust.idi98@gmail.com)**

@@ -9,7 +9,7 @@
 ![Relocating](https://img.shields.io/badge/Relocating-Auckland%2C_New_Zealand-197A55?style=flat-square)
 ![Open to work](https://img.shields.io/badge/Open_to-Full_Stack_%7C_Applied_AI_%7C_Product_Delivery-2ea44f?style=flat-square)
 
-**[Signalo →](https://mysignalo.ru)** · **[Engineering evidence →](https://github.com/rustidi98/signalo-showcase)** · **[References →](./REFERENCES.md)** · **[Email →](mailto:rust.idi98@gmail.com)**
+**[Signalo →](https://mysignalo.ru)** · **[Engineering evidence →](https://github.com/rustidi/signalo-portfolio)** · **[References →](./REFERENCES.md)** · **[Email →](mailto:rust.idi98@gmail.com)**
 
 </div>
 
@@ -62,7 +62,7 @@ I lead the product end to end: discovery with clinic leadership, coordinators an
 
 **Business value and engineering quality belong together.** Reliability, privacy, latency and cost are product decisions, just like conversion, revenue and time saved.
 
-The architecture, eval approach, incidents, trade-offs and sanitised implementation evidence are in the **[Signalo engineering showcase](https://github.com/rustidi98/signalo-showcase)**.
+The architecture, eval approach, incidents, trade-offs and sanitised implementation evidence are in the **[Signalo engineering showcase](https://github.com/rustidi/signalo-portfolio)**.
 
 ## The other business I operate
 
@@ -132,11 +132,11 @@ That does not move responsibility away from me. I own the problem definition, wo
 
 | Repository | What it shows |
 |:---|:---|
-| **[signalo-showcase](https://github.com/rustidi98/signalo-showcase)** | The full Signalo story: product, architecture, clinical workflow, evals, incidents, mobile screens and sanitised code. Start here. |
-| **[ai-engineering-showcase](https://github.com/rustidi98/ai-engineering-showcase)** | How I direct AI coding agents with reusable skills, specialist reviews and evidence-based release gates. |
-| **[tasks-knowledge-showcase](https://github.com/rustidi98/tasks-knowledge-showcase)** | A full-stack knowledge and work platform with a block editor, databases in documents, PostgreSQL/RLS and an AI workspace. |
-| **[callbase-showcase](https://github.com/rustidi98/callbase-showcase)** | Data workflows at volume: import, deduplication, enrichment, segmentation and export with FastAPI and PostgreSQL. |
-| **[agent-guardrails](https://github.com/rustidi98/agent-guardrails)** | Installable review agents and a machine gate for defined hard findings before commit, push or deploy. |
+| **[signalo-showcase](https://github.com/rustidi/signalo-portfolio)** | The full Signalo story: product, architecture, clinical workflow, evals, incidents, mobile screens and sanitised code. Start here. |
+| **[ai-engineering-showcase](https://github.com/rustidi/ml-portfolio)** | How I direct AI coding agents with reusable skills, specialist reviews and evidence-based release gates. |
+| **[tasks-knowledge-showcase](https://github.com/rustidi/knowledge-portfolio)** | A full-stack knowledge and work platform with a block editor, databases in documents, PostgreSQL/RLS and an AI workspace. |
+| **[callbase-showcase](https://github.com/rustidi/callbase-portfolio)** | Data workflows at volume: import, deduplication, enrichment, segmentation and export with FastAPI and PostgreSQL. |
+| **[agent-guardrails](https://github.com/rustidi/ai-guardrails)** | Installable review agents and a machine gate for defined hard findings before commit, push or deploy. |
 
 ## Why New Zealand
 
@@ -159,4 +159,4 @@ I require employer support for an **Accredited Employer Work Visa (AEWV)** and a
 **Bachelor's degree in Management (Production Management), 2021**<br/>
 Kazan State University of Architecture and Engineering (KSUAE), Kazan, Russia
 
-The fastest way to understand how I work is to start with **[Signalo](https://github.com/rustidi98/signalo-showcase)**. If the problems you are solving look similar, email me at **[rust.idi98@gmail.com](mailto:rust.idi98@gmail.com)**.
+The fastest way to understand how I work is to start with **[Signalo](https://github.com/rustidi/signalo-portfolio)**. If the problems you are solving look similar, email me at **[rust.idi98@gmail.com](mailto:rust.idi98@gmail.com)**.
